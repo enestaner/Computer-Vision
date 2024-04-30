@@ -9,6 +9,8 @@ numpy = "*"
 matplotlib = "*"
 opencv-python = "*"
 nbconvert = {extras = ["webpdf"], version = "*"}
+pandoc = "*"
+pypandoc = "*"
 
 [dev-packages]
 
