@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+numpy = "*"
+matplotlib = "*"
+opencv-python = "*"
+nbconvert = {extras = ["webpdf"], version = "*"}
+scipy = "*"
+torch = "*"
+torchvision = "*"
+torchinfo = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

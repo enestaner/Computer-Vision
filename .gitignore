@@ -1,3 +1,5 @@
 *.pdf
 *.lock
 *.html
+data
+*.zip
